@@ -28,15 +28,19 @@ A modern, responsive web application for managing user profiles built with React
 ### Run Locally (VS Code Terminal)
 
 Clone the repository
+
 git clone https://github.com/priya123250/user-profiles-management.git
 
 Navigate to project directory
+
 cd user-profiles-management
 
 Install dependencies
+
 npm install
 
 Start development server
+
 npm run dev
 
 Open browser at http://localhost:5173
