@@ -47,3 +47,31 @@ Open browser at http://localhost:5173
 
 The application will open at `http://localhost:5173` in your browser.
 
+
+## 📁 Project Structure
+
+src/
+├── components/ # Reusable UI components
+├── pages/ # Main pages (Users, Profile)
+├── utils/ # Helper functions (localStorage)
+├── App.jsx # Main app with routing
+└── main.jsx # Entry point
+
+
+## 📸 Screenshots
+
+[screenshots are there - in the Screenshots folder]
+
+---
+
+## 📝 Purpose  
+
+This project was created as part of a technical assessment for a Frontend Developer position.
+
+**Author:** Gunaparthi Priya Durga
+**Date:** October 2025  
+**Technologies:** React, Tailwind CSS, Vite, React Router
+
+---
+
+
